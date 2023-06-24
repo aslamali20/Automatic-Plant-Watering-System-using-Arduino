@@ -1,6 +1,8 @@
 # Automatic-Plant-Watering-System-using-Arduino
 Automatic Plant Watering System using Arduino
 
+[Automatic Plant Watering System.pptx](https://github.com/aslamali20/Automatic-Plant-Watering-System-using-Arduino/files/11857982/Automatic.Plant.Watering.System.pptx)
+
 Architecture of an Project.
 ![WhatsApp Image 2023-06-25 at 00 44 36](https://github.com/aslamali20/Automatic-Plant-Watering-System-using-Arduino/assets/99079432/c658a539-d38a-41c6-81f7-c442fdc0c965)
 
